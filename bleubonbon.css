@@ -21,6 +21,27 @@
 .navbar .navbar-collapse {
     text-align: center;
   }
+  img{
+     height:200px;
+     width: 300px;
+  }
 #brander{
 font-size: 150px !important;
+}
+hr {
+    border: 10px;
+    height: 10px;
+    background: blue;
+    background-image: linear-gradient(to right, #3F52FF, #3F72FF, #3F9FFF);
+}
+*{
+background-color: #546570 !important;
+color: #3F72FF;
+}
+h1,li,a{
+color:#3F72FF !important;
+}
+.thumbnail {
+    border-color: blue;
+    box-shadow: none;
 }
