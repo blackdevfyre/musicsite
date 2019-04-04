@@ -37,7 +37,7 @@ hr {
     background-image: linear-gradient(to right, #3F52FF, #3F72FF, #3F9FFF);
 }
 *{
-background-color: #546570 !important;
+background-color: black !important;
 color: #3F72FF;
 }
 h1,li,a{
@@ -60,7 +60,7 @@ color:#3F72FF !important;
     box-shadow: none;
 }
 .tab{
-     margin-left: 40px; 
+     margin-left: 40px;  
 }
 p{
     font-size: 25px;
